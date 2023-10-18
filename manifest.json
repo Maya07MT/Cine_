@@ -1,0 +1,52 @@
+{
+    "short_name": "Cine",
+    "name": "Examen 2P",
+    "start_url": "index.html",
+    "background_color": "#1F2A37",
+    "theme_color": "#1F2A37",
+    "display": "standalone", 
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "images/Iconos/Cine32.png",
+            "type": "image/png",
+            "sizes": "32x32"
+        },
+        {
+            "src": "images/Iconos/Cine48.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "images/Iconos/Cine64.png",  
+            "type": "image/png",
+            "sizes": "64x64"
+        },
+        {
+            "src": "images/Iconos/Cine72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "images/Iconos/Cine96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "images/Iconos/Cine128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "images/Iconos/Cine256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "images/Iconos/Cine512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
+
